@@ -1,2 +1,2 @@
 # pythonpandas
-This reposity contais my notebooks where a use pandas to manipulate data.
+This reposity contais my notebooks where I use pandas to manipulate data.
